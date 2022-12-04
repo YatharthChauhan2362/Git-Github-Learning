@@ -7,8 +7,8 @@
 ### You have various way to access and use the Cheatsheet:
 
 - ### [PDF-FILE](PDF/Git-Commands-PDF.pdf)
-- ### [LinkedIn Certification](https://github.com/YatharthChauhan2362/Git-Github-Learning/tree/main/LinkedIn-Certification/Git-Commands.md)
-
+<!-- - ### [LinkedIn Certification](https://github.com/YatharthChauhan2362/Git-Github-Learning/tree/main/LinkedIn-Certification/Git-Commands.md) -->
+### [LinkedIn Certification Credentials](https://www.linkedin.com/learning/certificates/4aa67798501364d4bdc00d1cd1934e954e7f3d878f0fafc49ced607c42a3eda0)
 ---
 
 
