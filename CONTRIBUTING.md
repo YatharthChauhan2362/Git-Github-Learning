@@ -6,9 +6,7 @@
 
 ## Contributions Needed:
 
-- ### Adding more Features to the Website.
 - ### Contributing to current Open Issues.
-- ### Resolving Website Bugs.
 - ### Adding Important yet Missed out Commands.
 - ### Other Contributions, Issues, Enhancements are welcomed as well.
 
