@@ -4,13 +4,11 @@
 
 ---
 
-### You have various way to access and use the Cheatsheet:
-
 - ### [LinkedIn Certification Credentials](https://www.linkedin.com/learning/certificates/4aa67798501364d4bdc00d1cd1934e954e7f3d878f0fafc49ced607c42a3eda0)
 ---
 
 
-# **WELCOME TO THE GIT CHEAT SHEET**
+# **WELCOME TO THE GIT COMMANDS**
 
     AUTHOR:         Yatharth Chauhan  (Github: YatharthChauhan2362)
     REFERENCE:      Learning Git and Github (LinkedIn Learning)
