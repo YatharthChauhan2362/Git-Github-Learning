@@ -7,7 +7,7 @@
 ### You have various way to access and use the Cheatsheet:
 
 - ### [PDF-FILE](PDF/Git-Commands-PDF.pdf)
-- ### [Certification ](LinkedIn-Certification/Git-Commands-PDF.pdf)
+- ### [LinkedIn Certification](https://github.com/YatharthChauhan2362/Git-Github-Learning/tree/main/LinkedIn-Certification)
 
 ---
 
@@ -15,7 +15,7 @@
 # **WELCOME TO THE GIT CHEAT SHEET**
 
     AUTHOR:         Yatharth Chauhan  (Github: YatharthChauhan2362)
-    REFERENCE:      Learning Git and Github (LinkedIn Leaning)
+    REFERENCE:      Learning Git and Github (LinkedIn Learning)
     DESCRIPTION:    Your very own Git AND Github Cheat Sheet having basic Windows Terminal Cheats as well!
 
 **_GO ON FROM HERE, ALL THE BEST_**
